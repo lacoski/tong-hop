@@ -1,2 +1,3 @@
-# tong-hop
-Ghi chép tổng hợp
+# Tổng hợp
+---
+## Ghi chép tổng hợp
