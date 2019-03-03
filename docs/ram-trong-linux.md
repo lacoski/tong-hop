@@ -159,3 +159,5 @@ Như mình đã nói, số ram hệ điều hành Linux đã nhận thực sự 
 ## Nguồn
 
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/filesystems/proc.txt
+
+https://serverfault.com/questions/219987/why-doesnt-the-value-in-proc-meminfo-seem-to-map-exactly-to-the-system-ram/219990#219990
